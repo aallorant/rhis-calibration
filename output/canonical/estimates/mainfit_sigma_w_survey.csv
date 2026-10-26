@@ -1,0 +1,4 @@
+"country","units","districts","three_level","sigma_w2","lo","hi","threshold","verdict"
+"Mozambique",128,128,FALSE,0.00868025773532679,0,0.19470537450401,0.10095,"inconclusive"
+"Zimbabwe",355,63,TRUE,0,0,0.0900585897009496,0.11755,"RULED OUT"
+"Malawi",437,27,TRUE,0,0,0.0498305456992973,0.0558,"RULED OUT"

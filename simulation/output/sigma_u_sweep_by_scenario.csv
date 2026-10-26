@@ -1,0 +1,241 @@
+sigma_u2_target,sigma_u2,scenario,method,level,rmse
+0.05,0.0508655093671936,constant,routine only,national,2.58810367971216
+0.05,0.0508655093671936,constant,routine only,admin-1 (province),3.14475066091207
+0.05,0.0508655093671936,constant,routine only,district,3.30032288959203
+0.05,0.0508655093671936,constant,routine only,district x age-sex,3.84404359430318
+0.05,0.0508655093671936,constant,survey audit only,national,0.837631407368953
+0.05,0.0508655093671936,constant,survey audit only,admin-1 (province),2.2762628473253
+0.05,0.0508655093671936,constant,survey audit only,district,2.66156865009997
+0.05,0.0508655093671936,constant,survey audit only,district x age-sex,3.4151055884298
+0.05,0.0508655093671936,constant,calibrated,national,0.443812370386237
+0.05,0.0508655093671936,constant,calibrated,admin-1 (province),0.613462771465801
+0.05,0.0508655093671936,constant,calibrated,district,0.835132419914314
+0.05,0.0508655093671936,constant,calibrated,district x age-sex,1.35158429637819
+0.05,0.0508655093671936,drift,routine only,national,2.73555369758223
+0.05,0.0508655093671936,drift,routine only,admin-1 (province),3.33364429256949
+0.05,0.0508655093671936,drift,routine only,district,3.56883037933013
+0.05,0.0508655093671936,drift,routine only,district x age-sex,4.38885558837651
+0.05,0.0508655093671936,drift,survey audit only,national,0.837631407368953
+0.05,0.0508655093671936,drift,survey audit only,admin-1 (province),2.2762628473253
+0.05,0.0508655093671936,drift,survey audit only,district,2.66156865009997
+0.05,0.0508655093671936,drift,survey audit only,district x age-sex,3.4151055884298
+0.05,0.0508655093671936,drift,calibrated,national,0.528839645040283
+0.05,0.0508655093671936,drift,calibrated,admin-1 (province),0.749673237698924
+0.05,0.0508655093671936,drift,calibrated,district,1.07618411352055
+0.05,0.0508655093671936,drift,calibrated,district x age-sex,1.86470408640758
+0.05,0.0508655093671936,shock,routine only,national,3.99696607769188
+0.05,0.0508655093671936,shock,routine only,admin-1 (province),4.80713265387668
+0.05,0.0508655093671936,shock,routine only,district,4.97003873154791
+0.05,0.0508655093671936,shock,routine only,district x age-sex,5.60761506575016
+0.05,0.0508655093671936,shock,survey audit only,national,0.837631407368953
+0.05,0.0508655093671936,shock,survey audit only,admin-1 (province),2.2762628473253
+0.05,0.0508655093671936,shock,survey audit only,district,2.66156865009997
+0.05,0.0508655093671936,shock,survey audit only,district x age-sex,3.4151055884298
+0.05,0.0508655093671936,shock,calibrated,national,0.443812370386235
+0.05,0.0508655093671936,shock,calibrated,admin-1 (province),0.613462771465798
+0.05,0.0508655093671936,shock,calibrated,district,0.83513241991431
+0.05,0.0508655093671936,shock,calibrated,district x age-sex,1.35158429637817
+0.05,0.0508655093671936,reshuffle,routine only,national,2.7392349781009
+0.05,0.0508655093671936,reshuffle,routine only,admin-1 (province),3.33739028377449
+0.05,0.0508655093671936,reshuffle,routine only,district,3.57390604706012
+0.05,0.0508655093671936,reshuffle,routine only,district x age-sex,4.40528427754227
+0.05,0.0508655093671936,reshuffle,survey audit only,national,0.837631407368953
+0.05,0.0508655093671936,reshuffle,survey audit only,admin-1 (province),2.2762628473253
+0.05,0.0508655093671936,reshuffle,survey audit only,district,2.66156865009997
+0.05,0.0508655093671936,reshuffle,survey audit only,district x age-sex,3.4151055884298
+0.05,0.0508655093671936,reshuffle,calibrated,national,0.516420144815729
+0.05,0.0508655093671936,reshuffle,calibrated,admin-1 (province),0.744557102613509
+0.05,0.0508655093671936,reshuffle,calibrated,district,1.07544826691277
+0.05,0.0508655093671936,reshuffle,calibrated,district x age-sex,1.88789122958456
+0.1,0.101696445801289,constant,routine only,national,2.6742955987088
+0.1,0.101696445801289,constant,routine only,admin-1 (province),3.28003032536586
+0.1,0.101696445801289,constant,routine only,district,3.57289612984295
+0.1,0.101696445801289,constant,routine only,district x age-sex,4.12519849114294
+0.1,0.101696445801289,constant,survey audit only,national,0.872282168538101
+0.1,0.101696445801289,constant,survey audit only,admin-1 (province),2.33792680524995
+0.1,0.101696445801289,constant,survey audit only,district,2.80420237005181
+0.1,0.101696445801289,constant,survey audit only,district x age-sex,3.57425206790499
+0.1,0.101696445801289,constant,calibrated,national,0.494027942253587
+0.1,0.101696445801289,constant,calibrated,admin-1 (province),0.729649700366412
+0.1,0.101696445801289,constant,calibrated,district,1.08365211818055
+0.1,0.101696445801289,constant,calibrated,district x age-sex,1.57658176307762
+0.1,0.101696445801289,drift,routine only,national,2.8222882136875
+0.1,0.101696445801289,drift,routine only,admin-1 (province),3.46836054713181
+0.1,0.101696445801289,drift,routine only,district,3.83805917909
+0.1,0.101696445801289,drift,routine only,district x age-sex,4.66652355135772
+0.1,0.101696445801289,drift,survey audit only,national,0.872282168538101
+0.1,0.101696445801289,drift,survey audit only,admin-1 (province),2.33792680524995
+0.1,0.101696445801289,drift,survey audit only,district,2.80420237005181
+0.1,0.101696445801289,drift,survey audit only,district x age-sex,3.57425206790499
+0.1,0.101696445801289,drift,calibrated,national,0.580215943721751
+0.1,0.101696445801289,drift,calibrated,admin-1 (province),0.860149016353194
+0.1,0.101696445801289,drift,calibrated,district,1.30084955347066
+0.1,0.101696445801289,drift,calibrated,district x age-sex,2.07067837325238
+0.1,0.101696445801289,shock,routine only,national,4.10485717318695
+0.1,0.101696445801289,shock,routine only,admin-1 (province),4.96433057185947
+0.1,0.101696445801289,shock,routine only,district,5.27449725304769
+0.1,0.101696445801289,shock,routine only,district x age-sex,5.92055322467308
+0.1,0.101696445801289,shock,survey audit only,national,0.872282168538101
+0.1,0.101696445801289,shock,survey audit only,admin-1 (province),2.33792680524995
+0.1,0.101696445801289,shock,survey audit only,district,2.80420237005181
+0.1,0.101696445801289,shock,survey audit only,district x age-sex,3.57425206790499
+0.1,0.101696445801289,shock,calibrated,national,0.494027942253589
+0.1,0.101696445801289,shock,calibrated,admin-1 (province),0.729649700366413
+0.1,0.101696445801289,shock,calibrated,district,1.08365211818055
+0.1,0.101696445801289,shock,calibrated,district x age-sex,1.57658176307763
+0.1,0.101696445801289,reshuffle,routine only,national,2.82570266115981
+0.1,0.101696445801289,reshuffle,routine only,admin-1 (province),3.47218806659115
+0.1,0.101696445801289,reshuffle,routine only,district,3.84306096956692
+0.1,0.101696445801289,reshuffle,routine only,district x age-sex,4.68050759087431
+0.1,0.101696445801289,reshuffle,survey audit only,national,0.872282168538101
+0.1,0.101696445801289,reshuffle,survey audit only,admin-1 (province),2.33792680524995
+0.1,0.101696445801289,reshuffle,survey audit only,district,2.80420237005181
+0.1,0.101696445801289,reshuffle,survey audit only,district x age-sex,3.57425206790499
+0.1,0.101696445801289,reshuffle,calibrated,national,0.570175632505536
+0.1,0.101696445801289,reshuffle,calibrated,admin-1 (province),0.857347141819574
+0.1,0.101696445801289,reshuffle,calibrated,district,1.3015116738591
+0.1,0.101696445801289,reshuffle,calibrated,district x age-sex,2.09372353472968
+0.2,0.203277620669591,constant,routine only,national,2.84056643688014
+0.2,0.203277620669591,constant,routine only,admin-1 (province),3.54253332817434
+0.2,0.203277620669591,constant,routine only,district,4.09749207520606
+0.2,0.203277620669591,constant,routine only,district x age-sex,4.66468596291273
+0.2,0.203277620669591,constant,survey audit only,national,0.945250486547625
+0.2,0.203277620669591,constant,survey audit only,admin-1 (province),2.46400487398144
+0.2,0.203277620669591,constant,survey audit only,district,3.08718853495997
+0.2,0.203277620669591,constant,survey audit only,district x age-sex,3.88928913146177
+0.2,0.203277620669591,constant,calibrated,national,0.595503367820944
+0.2,0.203277620669591,constant,calibrated,admin-1 (province),0.948683046167395
+0.2,0.203277620669591,constant,calibrated,district,1.51755496767007
+0.2,0.203277620669591,constant,calibrated,district x age-sex,2.00179538664002
+0.2,0.203277620669591,drift,routine only,national,2.98944868783272
+0.2,0.203277620669591,drift,routine only,admin-1 (province),3.7296792735413
+0.2,0.203277620669591,drift,routine only,district,4.35749178132808
+0.2,0.203277620669591,drift,routine only,district x age-sex,5.20017037955913
+0.2,0.203277620669591,drift,survey audit only,national,0.945250486547625
+0.2,0.203277620669591,drift,survey audit only,admin-1 (province),2.46400487398144
+0.2,0.203277620669591,drift,survey audit only,district,3.08718853495997
+0.2,0.203277620669591,drift,survey audit only,district x age-sex,3.88928913146177
+0.2,0.203277620669591,drift,calibrated,national,0.685411685028121
+0.2,0.203277620669591,drift,calibrated,admin-1 (province),1.07402898039955
+0.2,0.203277620669591,drift,calibrated,district,1.71472988607685
+0.2,0.203277620669591,drift,calibrated,district x age-sex,2.47510436900185
+0.2,0.203277620669591,shock,routine only,national,4.31162284479818
+0.2,0.203277620669591,shock,routine only,admin-1 (province),5.26653799378875
+0.2,0.203277620669591,shock,routine only,district,5.86007230150361
+0.2,0.203277620669591,shock,routine only,district x age-sex,6.51902750427025
+0.2,0.203277620669591,shock,survey audit only,national,0.945250486547625
+0.2,0.203277620669591,shock,survey audit only,admin-1 (province),2.46400487398144
+0.2,0.203277620669591,shock,survey audit only,district,3.08718853495997
+0.2,0.203277620669591,shock,survey audit only,district x age-sex,3.88928913146177
+0.2,0.203277620669591,shock,calibrated,national,0.59550336782094
+0.2,0.203277620669591,shock,calibrated,admin-1 (province),0.94868304616739
+0.2,0.203277620669591,shock,calibrated,district,1.51755496767006
+0.2,0.203277620669591,shock,calibrated,district x age-sex,2.00179538664002
+0.2,0.203277620669591,reshuffle,routine only,national,2.9920145480853
+0.2,0.203277620669591,reshuffle,routine only,admin-1 (province),3.73288331869069
+0.2,0.203277620669591,reshuffle,routine only,district,4.36112256406763
+0.2,0.203277620669591,reshuffle,routine only,district x age-sex,5.20864404127392
+0.2,0.203277620669591,reshuffle,survey audit only,national,0.945250486547625
+0.2,0.203277620669591,reshuffle,survey audit only,admin-1 (province),2.46400487398144
+0.2,0.203277620669591,reshuffle,survey audit only,district,3.08718853495997
+0.2,0.203277620669591,reshuffle,survey audit only,district x age-sex,3.88928913146177
+0.2,0.203277620669591,reshuffle,calibrated,national,0.676529415341869
+0.2,0.203277620669591,reshuffle,calibrated,admin-1 (province),1.07276287364558
+0.2,0.203277620669591,reshuffle,calibrated,district,1.71579522564882
+0.2,0.203277620669591,reshuffle,calibrated,district x age-sex,2.49495670637544
+0.3,0.305046167970077,constant,routine only,national,3.00219853785796
+0.3,0.305046167970077,constant,routine only,admin-1 (province),3.79897629462904
+0.3,0.305046167970077,constant,routine only,district,4.60270415206423
+0.3,0.305046167970077,constant,routine only,district x age-sex,5.18216891322344
+0.3,0.305046167970077,constant,survey audit only,national,1.02069165476789
+0.3,0.305046167970077,constant,survey audit only,admin-1 (province),2.59259192982831
+0.3,0.305046167970077,constant,survey audit only,district,3.3675108513218
+0.3,0.305046167970077,constant,survey audit only,district x age-sex,4.20101617728491
+0.3,0.305046167970077,constant,calibrated,national,0.698138261351768
+0.3,0.305046167970077,constant,calibrated,admin-1 (province),1.15919318835232
+0.3,0.305046167970077,constant,calibrated,district,1.91626927475557
+0.3,0.305046167970077,constant,calibrated,district x age-sex,2.40963800195238
+0.3,0.305046167970077,drift,routine only,national,3.15163455641414
+0.3,0.305046167970077,drift,routine only,admin-1 (province),3.98455851373176
+0.3,0.305046167970077,drift,routine only,district,4.85817239584721
+0.3,0.305046167970077,drift,routine only,district x age-sex,5.71245911759785
+0.3,0.305046167970077,drift,survey audit only,national,1.02069165476789
+0.3,0.305046167970077,drift,survey audit only,admin-1 (province),2.59259192982831
+0.3,0.305046167970077,drift,survey audit only,district,3.3675108513218
+0.3,0.305046167970077,drift,survey audit only,district x age-sex,4.20101617728491
+0.3,0.305046167970077,drift,calibrated,national,0.791735789325471
+0.3,0.305046167970077,drift,calibrated,admin-1 (province),1.28237549567229
+0.3,0.305046167970077,drift,calibrated,district,2.10548877882958
+0.3,0.305046167970077,drift,calibrated,district x age-sex,2.87188218977
+0.3,0.305046167970077,shock,routine only,national,4.51077398090194
+0.3,0.305046167970077,shock,routine only,admin-1 (province),5.55822069144265
+0.3,0.305046167970077,shock,routine only,district,6.42169433772875
+0.3,0.305046167970077,shock,routine only,district x age-sex,7.08967306250622
+0.3,0.305046167970077,shock,survey audit only,national,1.02069165476789
+0.3,0.305046167970077,shock,survey audit only,admin-1 (province),2.59259192982831
+0.3,0.305046167970077,shock,survey audit only,district,3.3675108513218
+0.3,0.305046167970077,shock,survey audit only,district x age-sex,4.20101617728491
+0.3,0.305046167970077,shock,calibrated,national,0.698138261351765
+0.3,0.305046167970077,shock,calibrated,admin-1 (province),1.15919318835232
+0.3,0.305046167970077,shock,calibrated,district,1.91626927475556
+0.3,0.305046167970077,shock,calibrated,district x age-sex,2.40963800195237
+0.3,0.305046167970077,reshuffle,routine only,national,3.15317976514174
+0.3,0.305046167970077,reshuffle,routine only,admin-1 (province),3.98667345293672
+0.3,0.305046167970077,reshuffle,routine only,district,4.85978296028576
+0.3,0.305046167970077,reshuffle,routine only,district x age-sex,5.71520966926402
+0.3,0.305046167970077,reshuffle,survey audit only,national,1.02069165476789
+0.3,0.305046167970077,reshuffle,survey audit only,admin-1 (province),2.59259192982831
+0.3,0.305046167970077,reshuffle,survey audit only,district,3.3675108513218
+0.3,0.305046167970077,reshuffle,survey audit only,district x age-sex,4.20101617728491
+0.3,0.305046167970077,reshuffle,calibrated,national,0.781860574637031
+0.3,0.305046167970077,reshuffle,calibrated,admin-1 (province),1.28072000930587
+0.3,0.305046167970077,reshuffle,calibrated,district,2.10506193574193
+0.3,0.305046167970077,reshuffle,calibrated,district x age-sex,2.88728957831077
+0.5,0.508003378579706,constant,routine only,national,3.31244657054039
+0.5,0.508003378579706,constant,routine only,admin-1 (province),4.29246895622015
+0.5,0.508003378579706,constant,routine only,district,5.55834561555264
+0.5,0.508003378579706,constant,routine only,district x age-sex,6.15622545022235
+0.5,0.508003378579706,constant,survey audit only,national,1.17482343821916
+0.5,0.508003378579706,constant,survey audit only,admin-1 (province),2.8530734223628
+0.5,0.508003378579706,constant,survey audit only,district,3.91726372158612
+0.5,0.508003378579706,constant,survey audit only,district x age-sex,4.8112520736122
+0.5,0.508003378579706,constant,calibrated,national,0.901939577582016
+0.5,0.508003378579706,constant,calibrated,admin-1 (province),1.56259336292592
+0.5,0.508003378579706,constant,calibrated,district,2.66252550808614
+0.5,0.508003378579706,constant,calibrated,district x age-sex,3.18808169645118
+0.5,0.508003378579706,drift,routine only,national,3.46199827867224
+0.5,0.508003378579706,drift,routine only,admin-1 (province),4.47375884638017
+0.5,0.508003378579706,drift,routine only,district,5.80459756332407
+0.5,0.508003378579706,drift,routine only,district x age-sex,6.67590742422263
+0.5,0.508003378579706,drift,survey audit only,national,1.17482343821916
+0.5,0.508003378579706,drift,survey audit only,admin-1 (province),2.8530734223628
+0.5,0.508003378579706,drift,survey audit only,district,3.91726372158612
+0.5,0.508003378579706,drift,survey audit only,district x age-sex,4.8112520736122
+0.5,0.508003378579706,drift,calibrated,national,1.00189045056288
+0.5,0.508003378579706,drift,calibrated,admin-1 (province),1.68453667367338
+0.5,0.508003378579706,drift,calibrated,district,2.84623619382397
+0.5,0.508003378579706,drift,calibrated,district x age-sex,3.64019637845186
+0.5,0.508003378579706,shock,routine only,national,4.88808403107203
+0.5,0.508003378579706,shock,routine only,admin-1 (province),6.11065320924303
+0.5,0.508003378579706,shock,routine only,district,7.47421815099645
+0.5,0.508003378579706,shock,routine only,district x age-sex,8.15293109709727
+0.5,0.508003378579706,shock,survey audit only,national,1.17482343821916
+0.5,0.508003378579706,shock,survey audit only,admin-1 (province),2.8530734223628
+0.5,0.508003378579706,shock,survey audit only,district,3.91726372158612
+0.5,0.508003378579706,shock,survey audit only,district x age-sex,4.8112520736122
+0.5,0.508003378579706,shock,calibrated,national,0.901939577582039
+0.5,0.508003378579706,shock,calibrated,admin-1 (province),1.56259336292594
+0.5,0.508003378579706,shock,calibrated,district,2.66252550808616
+0.5,0.508003378579706,shock,calibrated,district x age-sex,3.18808169645122
+0.5,0.508003378579706,reshuffle,routine only,national,3.46135919097061
+0.5,0.508003378579706,reshuffle,routine only,admin-1 (province),4.47312994924809
+0.5,0.508003378579706,reshuffle,routine only,district,5.80155056601172
+0.5,0.508003378579706,reshuffle,routine only,district x age-sex,6.66762888976285
+0.5,0.508003378579706,reshuffle,survey audit only,national,1.17482343821916
+0.5,0.508003378579706,reshuffle,survey audit only,admin-1 (province),2.8530734223628
+0.5,0.508003378579706,reshuffle,survey audit only,district,3.91726372158612
+0.5,0.508003378579706,reshuffle,survey audit only,district x age-sex,4.8112520736122
+0.5,0.508003378579706,reshuffle,calibrated,national,0.990366700012477
+0.5,0.508003378579706,reshuffle,calibrated,admin-1 (province),1.68154218000265
+0.5,0.508003378579706,reshuffle,calibrated,district,2.84181149008962
+0.5,0.508003378579706,reshuffle,calibrated,district x age-sex,3.64623659462613

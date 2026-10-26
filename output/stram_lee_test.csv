@@ -1,0 +1,5 @@
+"country","n_units","n_provinces","sigma_u2_hat","LRT","p_stram_lee"
+"Mozambique",159,10,0.1547,507.62,1.04e-112
+"Zimbabwe",80,10,0.1538,94.06,1.53e-22
+"Malawi",29,5,0.0702,55.25,5.3e-14
+"Lesotho",72,10,0.0616,45.81,6.5e-12

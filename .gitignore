@@ -1,0 +1,15 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.so
+*.o
+*.dll
+*.rds
+*.rda
+data/raw/
+data/processed/
+data/rhis/
+data/phia/
+output/*/fits/
+output/figures/

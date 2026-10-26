@@ -1,0 +1,71 @@
+"country","province","estimator","log_lambda","se","OR","lo","hi"
+"Mozambique","Cabo Delgado","TMB",0.4,0.272,1.492,0.876,2.542
+"Mozambique","Gaza","TMB",0.488,0.343,1.63,0.832,3.192
+"Mozambique","Inhambane","TMB",0.111,0.253,1.117,0.681,1.833
+"Mozambique","Manica","TMB",0.91,0.19,2.484,1.711,3.607
+"Mozambique","Maputo","TMB",0.289,0.163,1.335,0.969,1.838
+"Mozambique","Nampula","TMB",0.63,0.158,1.878,1.379,2.557
+"Mozambique","Niassa","TMB",0.463,0.303,1.589,0.877,2.879
+"Mozambique","Sofala","TMB",0.497,0.217,1.643,1.074,2.514
+"Mozambique","Tete","TMB",0.602,0.191,1.827,1.257,2.654
+"Mozambique","Zamb<U+00E9>zia","TMB",0.36,0.276,1.433,0.835,2.461
+"Mozambique","Cabo Delgado","EBLUP",0.4,0.273,1.492,0.874,2.548
+"Mozambique","Gaza","EBLUP",0.488,0.344,1.629,0.83,3.197
+"Mozambique","Inhambane","EBLUP",0.111,0.254,1.117,0.679,1.838
+"Mozambique","Manica","EBLUP",0.91,0.192,2.484,1.704,3.62
+"Mozambique","Maputo","EBLUP",0.288,0.165,1.334,0.965,1.843
+"Mozambique","Nampula","EBLUP",0.63,0.159,1.878,1.376,2.564
+"Mozambique","Niassa","EBLUP",0.463,0.304,1.589,0.875,2.884
+"Mozambique","Sofala","EBLUP",0.497,0.219,1.643,1.07,2.522
+"Mozambique","Tete","EBLUP",0.602,0.192,1.826,1.253,2.662
+"Mozambique","Zamb<U+00E9>zia","EBLUP",0.36,0.276,1.433,0.834,2.464
+"Zimbabwe","Bulawayo","TMB",1.218,0.395,3.381,1.56,7.326
+"Zimbabwe","Harare","TMB",0.93,0.397,2.534,1.164,5.518
+"Zimbabwe","Manicaland","TMB",1.22,0.229,3.389,2.161,5.313
+"Zimbabwe","Mashonaland Central","TMB",0.565,0.216,1.76,1.152,2.688
+"Zimbabwe","Mashonaland East","TMB",1.377,0.213,3.962,2.612,6.009
+"Zimbabwe","Mashonaland West","TMB",1.25,0.26,3.491,2.096,5.815
+"Zimbabwe","Masvingo","TMB",1.036,0.282,2.817,1.62,4.9
+"Zimbabwe","Matabeleland North","TMB",0.973,0.313,2.647,1.434,4.884
+"Zimbabwe","Matabeleland South","TMB",1.272,0.255,3.567,2.166,5.876
+"Zimbabwe","Midlands","TMB",1.132,0.225,3.102,1.995,4.821
+"Zimbabwe","Bulawayo","EBLUP",1.218,0.411,3.381,1.512,7.562
+"Zimbabwe","Harare","EBLUP",0.93,0.413,2.534,1.128,5.694
+"Zimbabwe","Manicaland","EBLUP",1.22,0.233,3.388,2.146,5.35
+"Zimbabwe","Mashonaland Central","EBLUP",0.565,0.22,1.759,1.143,2.706
+"Zimbabwe","Mashonaland East","EBLUP",1.377,0.216,3.961,2.594,6.048
+"Zimbabwe","Mashonaland West","EBLUP",1.25,0.264,3.491,2.081,5.855
+"Zimbabwe","Masvingo","EBLUP",1.036,0.286,2.817,1.609,4.931
+"Zimbabwe","Matabeleland North","EBLUP",0.973,0.316,2.646,1.425,4.911
+"Zimbabwe","Matabeleland South","EBLUP",1.272,0.258,3.567,2.15,5.917
+"Zimbabwe","Midlands","EBLUP",1.132,0.229,3.101,1.981,4.855
+"Malawi","Central East Zone","TMB",0.763,0.284,2.145,1.228,3.746
+"Malawi","Central West Zone","TMB",0.985,0.245,2.678,1.656,4.331
+"Malawi","Northern Zone","TMB",1.067,0.294,2.908,1.635,5.171
+"Malawi","South East Zone","TMB",0.829,0.186,2.29,1.591,3.296
+"Malawi","South West Zone","TMB",0.474,0.165,1.606,1.163,2.217
+"Malawi","Central East Zone","EBLUP",0.763,0.289,2.144,1.218,3.776
+"Malawi","Central West Zone","EBLUP",0.985,0.251,2.678,1.636,4.382
+"Malawi","Northern Zone","EBLUP",1.068,0.297,2.909,1.626,5.202
+"Malawi","South East Zone","EBLUP",0.829,0.191,2.29,1.575,3.33
+"Malawi","South West Zone","EBLUP",0.474,0.17,1.606,1.152,2.239
+"Lesotho","Berea","TMB",0.38,0.168,1.463,1.052,2.035
+"Lesotho","Butha Buthe","TMB",-0.128,0.247,0.88,0.542,1.428
+"Lesotho","Leribe","TMB",0.075,0.182,1.078,0.755,1.539
+"Lesotho","Mafeteng","TMB",0.316,0.202,1.372,0.924,2.037
+"Lesotho","Maseru","TMB",0.651,0.217,1.918,1.254,2.934
+"Lesotho","Mohale's Hoek","TMB",-0.134,0.238,0.875,0.549,1.394
+"Lesotho","Mokhotlong","TMB",-0.025,0.248,0.975,0.599,1.586
+"Lesotho","Qacha's Nek","TMB",-0.121,0.418,0.886,0.39,2.01
+"Lesotho","Quthing","TMB",0.785,0.437,2.193,0.931,5.166
+"Lesotho","Thaba Tseka","TMB",-0.019,0.322,0.981,0.522,1.845
+"Lesotho","Berea","EBLUP",0.38,0.172,1.462,1.044,2.047
+"Lesotho","Butha Buthe","EBLUP",-0.129,0.251,0.879,0.537,1.439
+"Lesotho","Leribe","EBLUP",0.075,0.184,1.077,0.75,1.547
+"Lesotho","Mafeteng","EBLUP",0.316,0.205,1.371,0.917,2.05
+"Lesotho","Maseru","EBLUP",0.65,0.219,1.916,1.247,2.944
+"Lesotho","Mohale's Hoek","EBLUP",-0.135,0.241,0.874,0.545,1.401
+"Lesotho","Mokhotlong","EBLUP",-0.027,0.253,0.974,0.593,1.598
+"Lesotho","Qacha's Nek","EBLUP",-0.121,0.422,0.886,0.388,2.024
+"Lesotho","Quthing","EBLUP",0.785,0.441,2.192,0.924,5.199
+"Lesotho","Thaba Tseka","EBLUP",-0.022,0.325,0.979,0.517,1.851

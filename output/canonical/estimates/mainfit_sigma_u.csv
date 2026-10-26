@@ -1,0 +1,5 @@
+"country","sigma_u2_baseline","sigma_u2_cov","cov_pdHess"
+"Mozambique",0.2164,0.1064,FALSE
+"Zimbabwe",0.1373,0.0294,FALSE
+"Malawi",0.0975,0.0137,FALSE
+"Lesotho",0,0,FALSE

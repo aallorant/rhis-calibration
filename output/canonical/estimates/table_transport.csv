@@ -1,0 +1,4 @@
+"country","provinces_total","districts_surveyed","drop_no_register","drop_zero_count","drop_single_cluster_only","drop_singleton_province","provinces_tested","districts_tested","t","z","p_one_sided","sigma_tau2","sigma_tau2_lo","sigma_tau2_hi","sigma_u2_collapsed","province_tests","province_rejections_05","provinces_rejecting","singleton_provinces"
+"Mozambique",10,128,0,25,36,0,10,67,0.346667947593155,1.31849468514517,0.0936690515339915,0.0895207532255708,-0.0435557606951513,0.222597267146293,0.2019,10,0,"",NA
+"Zimbabwe",10,63,1,1,0,2,8,59,0.186614194327127,0.753850494827302,0.225469499784448,0.080020064677671,-0.128030905434334,0.288071034789676,0.1257,8,1,"Mashonaland West","Bulawayo; Harare"
+"Malawi",5,27,0,2,0,0,5,25,-0.134914288518127,-0.351333414089167,0.637330885055382,-0.0251590986667249,-0.16551532841681,0.11519713108336,0.1116,5,0,"",""

@@ -1,0 +1,17 @@
+method,level,rmse
+routine only,national,3.28367734702347
+routine only,admin-1 (province),4.06831595516031
+routine only,district,4.6698457172768
+routine only,district x age-sex,5.39895050170127
+survey audit only,national,0.945363842457255
+survey audit only,admin-1 (province),2.4641989723155
+survey audit only,district,3.08761728825826
+survey audit only,district x age-sex,3.88976612745676
+calibrated (static),national,0.638395257288158
+calibrated (static),admin-1 (province),1.01136276998585
+calibrated (static),district,1.61702593323078
+calibrated (static),district x age-sex,2.2440321597019
+calibrated (dynamic),national,1.52365522761496
+calibrated (dynamic),admin-1 (province),2.00112036121925
+calibrated (dynamic),district,3.00783613256764
+calibrated (dynamic),district x age-sex,4.31446343077761

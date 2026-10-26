@@ -1,0 +1,13 @@
+quantity,value,unit
+"undiagnosed positivity, wave 0",4.58349179966908,per cent
+"undiagnosed positivity, wave 5",2.39582382422396,per cent
+"undiagnosed positivity, mean over waves",3.41100562955839,per cent
+"adult prevalence, wave 0",13.9136961206337,per cent
+"adult prevalence, wave 5",11.6799498933152,per cent
+"awareness of status, wave 0",67.1737008263632,per cent
+"awareness of status, wave 5",78.2512840257705,per cent
+"selection odds ratio at wave 0, mean",2.15074644095803,odds ratio
+"selection odds ratio at wave 0, mean minimum cell",0.697221228334084,odds ratio
+"selection odds ratio at wave 0, mean maximum cell",5.82264171881415,odds ratio
+"cell undiagnosed positivity, mean minimum over waves",0.113368911316209,per cent
+"cell undiagnosed positivity, mean maximum over waves",25.9853944394201,per cent

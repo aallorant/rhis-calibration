@@ -1,0 +1,10 @@
+"country","covariate","beta_eblup","se_eblup","beta_tmb"
+"Mozambique","pepfar_priority_scaleup",-0.0201,0.1143,-0.0384
+"Mozambique","pepfar_priority_notset",0.3718,0.4901,0.347
+"Mozambique","pepfar_selftest_log_raw",0.0334,0.0116,0.0289
+"Zimbabwe","pepfar_priority_scaleup",0.2336,0.2073,0.1604
+"Zimbabwe","pepfar_priority_notset",0.5334,0.3068,0.345
+"Zimbabwe","selftest_log_norm",-0.1321,0.0507,-0.1261
+"Zimbabwe","pepfar_covered",0.2342,0.2168,0.3105
+"Malawi","pepfar_priority_scaleup",0.1285,0.1482,0.0334
+"Malawi","selftest_log_norm",-0.0685,0.1752,0
